@@ -1,0 +1,13 @@
+train: D:/SaffronDetection/train/images
+val: D:/SaffronDetection/valid/images
+test: D:/SaffronDetection/test/images
+
+nc: 1
+names: ['Saffron']
+
+roboflow:
+  workspace: ddddd-gfspm
+  project: zafferano-3.1-300_300
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ddddd-gfspm/zafferano-3.1-300_300/dataset/1
